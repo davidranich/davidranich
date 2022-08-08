@@ -1,6 +1,7 @@
-hi, my name is David Ranich, and I'm 29 years old.
+Hi, my name is David Ranich, and I'm 29 years old.
 
-- `i write sustainable code`
-- i love learning 
-- i enjoy walks (on the beach too)
-- i sunburn easily
+- `// Writes sustainable code`
+- Loves learning 
+- Enjoys going on walks (on the beach too)
+- Binge watches too many shows (my growing catalog is going to kill me)
+- Sunburns very easily

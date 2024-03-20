@@ -1,4 +1,4 @@
-Hi, my name is David Ranich, and I'm 30 years old.
+Hi, my name is David Ranich, and I'm 31 years old.
 
 - `// writes sustainable code`
 - Loves learning 
